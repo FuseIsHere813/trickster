@@ -1,5 +1,7 @@
 # Vs. Tricky (trickster, what ever)
 
+# thanks to JOELwindows 7 for telling me to fork this lmao
+
 ok ok so heres the build instructions.
 
 first, default kade engine build obv. [here if you don't know](https://kadedev.github.io/Kade-Engine/building)
